@@ -1,0 +1,319 @@
+.ty-blog__item {
+  border-bottom: 1px solid #EEE;
+  padding-bottom: 30px;
+  margin: -1px;
+  margin-bottom: 50px;
+}
+.ty-blog__item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.ty-blog *,
+.ty-blog-grid * {
+  font-size: 14px;
+}
+.ty-blog h1,
+.ty-blog-grid h1 {
+  font-size: 25px;
+}
+.ty-blog h2,
+.ty-blog-grid h2 {
+  font-size: 23px;
+}
+.ty-blog h3,
+.ty-blog-grid h3 {
+  font-size: 21px;
+}
+.ty-blog h4,
+.ty-blog-grid h4 {
+  font-size: 19px;
+}
+.ty-blog h5,
+.ty-blog-grid h5 {
+  font-size: 16px;
+}
+.ty-blog h6,
+.ty-blog-grid h6 {
+  font-size: 14px;
+}
+.ty-blog hr,
+.ty-blog-grid hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.ty-blog img,
+.ty-blog-grid img {
+  width: auto;
+  max-width: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.ty-blog h2.ty-blog__post-title,
+.ty-blog-grid h2.ty-blog__post-title {
+  margin-bottom: 4px;
+}
+.ty-blog .ty-blog__post-title,
+.ty-blog-grid .ty-blog__post-title {
+  margin-bottom: 0;
+  padding: 0 0 6px;
+  font-size: 27px;
+}
+.ty-blog .ty-blog__img-block,
+.ty-blog-grid .ty-blog__img-block {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.ty-blog .ty-blog__img-block img,
+.ty-blog-grid .ty-blog__img-block img {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.ty-blog .ty-blog__description,
+.ty-blog-grid .ty-blog__description {
+  margin-bottom: 30px;
+}
+.ty-blog .ty-blog__date,
+.ty-blog-grid .ty-blog__date {
+  display: inline-block;
+  margin-bottom: 15px;
+  margin-right: 10px;
+  color: #adadad;
+  font-weight: normal;
+  font-size: 12px;
+}
+.ty-blog .ty-blog__author,
+.ty-blog-grid .ty-blog__author {
+  display: inline-block;
+  margin-bottom: 15px;
+  padding-left: 12px;
+  border-left: 1px solid #adadad;
+  color: #adadad;
+  font-weight: normal;
+  font-size: 12px;
+}
+.ty-blog-sidebox {
+  margin: 0 0 10px;
+}
+.ty-blog-sidebox__item {
+  border-bottom: 1px solid #EEE;
+  padding-bottom: 10px;
+  margin-bottom: 7px;
+  word-wrap: break-word;
+}
+.ty-blog-sidebox__item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.ty-blog-text-links {
+  margin: 20px 0 40px;
+}
+.ty-blog-text-links__item {
+  margin-bottom: 20px;
+}
+.ty-blog-text-links__item:last-child {
+  margin-bottom: 25px;
+}
+.ty-blog-text-links__date {
+  color: #adadad;
+  border: 1px solid #EEE;
+  padding: 3px 8px;
+  margin-right: 9px;
+  float: left;
+  font-size: 12px;
+}
+.ty-blog-text-links__a {
+  display: block;
+  padding-top: 3px;
+  word-wrap: break-word;
+}
+.ty-blog-recent-posts-scroller {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+.ty-blog-recent-posts-scroller__item {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  word-wrap: break-word;
+}
+.ty-blog-recent-posts-scroller__item .ty-blog__date {
+  display: block;
+  margin-bottom: 0;
+  margin-top: 5px;
+  color: #adadad;
+  font-size: 12px;
+}
+.ty-blog-recent-posts-scroller__img-block {
+  margin-bottom: 10px;
+  max-height: 150px;
+  min-height: 150px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+}
+.ty-blog-recent-posts-scroller__img-block img {
+  display: block;
+  bottom: -100%;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: -100%;
+  vertical-align: middle;
+}
+.ty-blog-recent-posts-scroller__img-block .ty-no-image {
+  height: 150px;
+  min-height: initial !important;
+  min-width: initial !important;
+}
+@media (max-width: 767px) {
+  .ty-blog__title {
+    margin-top: 50px;
+  }
+}
+.notification-content-extended h1 {
+  background: #3C599F;
+  color: #fff;
+}
+.ty-btn__secondary {
+  color: #666666;
+}
+.ty-btn__secondary:hover {
+  background: #cacbcf;
+  color: #666666;
+}
+.ty-btn__primary:hover {
+  color: #fff;
+  background: #942b2b;
+}
+.ty-btn__primary.ty-btn__text {
+  color: #3b5999;
+}
+.ty-product-filters__switch-right,
+.ty-product-filters__switch-down,
+.ty-product-filters__title {
+  color: #7b7b7b;
+}
+.ty-menu-vertical .ty-menu__submenu .ty-menu__submenu-item-header .ty-menu__item-link,
+.ty-menu__submenu-items .ty-menu__submenu-link {
+  color: #333333;
+}
+.ty-sort-dropdown__content,
+.ty-dropdown-box__content,
+.ty-select-block,
+.ty-horizontal-product-filters-dropdown__content {
+  border: 1px solid #c8c8c8;
+}
+.ty-select-block__a.open,
+.ty-select-block__a.open:hover,
+.ty-dropdown-box__title.open {
+  background: #c8c8c8;
+  color: #EEE;
+}
+.ty-sort-dropdown__wrapper.open,
+.ty-horizontal-product-filters-dropdown__wrapper.open {
+  background: #c8c8c8;
+  color: #fff;
+}
+.ty-horizontal-product-filters {
+  margin-bottom: 0;
+}
+.ty-horizontal-product-filters .ty-product-filters__wrapper {
+  margin: 0;
+  padding-bottom: 0;
+}
+.footer-stay-connected {
+  background: #3C599F;
+  border-bottom: 1px solid #d1d8e6;
+  border-top: 1px solid #d1d8e6;
+  color: #333333;
+}
+.ty-footer-menu__header {
+  color: #3b5999;
+}
+.ty-footer-menu__item a {
+  color: #333333;
+}
+.footer-copyright {
+  border-top: 1px solid #d1d8e6;
+}
+.ty-cr-phone-number-link .ty-cr-phone-prefix {
+  color: #959595;
+}
+@media (max-width: 767px) {
+  .ty-menu__submenu .ty-menu__submenu-items .ty-menu__submenu-item-active a,
+  .ty-menu-vertical .ty-menu__submenu .menu-level-2.ty-menu__item-active .ty-menu__item-link {
+    text-decoration: underline;
+    color: #3b5999;
+  }
+  .ty-menu-vertical .menu-level-1.ty-menu__item-active > .ty-menu__submenu-item-header {
+    background: #e0e0e0;
+  }
+  .ty-horizontal-product-filters-dropdown__content {
+    border-bottom: none;
+    border-left: 1px solid #EEE;
+    border-right: 1px solid #EEE;
+  }
+}
+a:hover {
+  text-decoration: underline;
+}
+.ui-dialog .ui-dialog-titlebar {
+  background: #888;
+}
+div.ui-dialog .ui-dialog-title {
+  color: white;
+}
+.notification-content-extended {
+  border: 0;
+}
+.ty-sidebox {
+  border: 1px solid #EAE9E5;
+  padding: 10px;
+}
+.ty-product-filters__wrapper {
+  margin: 0px -10px;
+}
+.ty-sidebox__title {
+  border-bottom: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 3px;
+}
+.ty-btn__big {
+  padding: 7px 17px;
+}
+.ty-btn__primary {
+  color: white;
+}
+.ty-btn__primary {
+  color: white;
+}
+.ty-product-filters__wrapper {
+  padding-bottom: 5px;
+}
+.ty-menu__item .ty-menu__item-link {
+  text-transform: uppercase;
+}
+.ty-product-filters__wrapper {
+  background: transparent;
+}
+@media (max-width: 979px) and (min-width: 768px) {
+  .ty-menu__item .ty-menu__item-link {
+    padding: 15px 10px;
+    font-size: 12px;
+  }
+  .ty-price-slider__input-text {
+    width: 62px;
+  }
+}
+@media (max-width: 767px) {
+  .ty-sidebox__body {
+    margin-top: 10px;
+  }
+  .ty-sidebox__title-toggle {
+    right: -8px;
+  }
+}

@@ -1,0 +1,147 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:5396:"    <div class="ty-mainbox-simple-container clearfix ty-homepage-vendors">
+                    <h2 class="ty-mainbox-simple-title">
+                
+                                    Featured Vendors
+                                
+
+            </h2>
+                <div class="ty-mainbox-simple-body">
+
+
+    
+    
+
+    <div class="grid-list ty-grid-vendors">
+        <div class="ty-column5">
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item"><div class="ty-grid-list__company-logo">            <a class="ty-company-image-wrapper" href="http://localhost/multivendor/acme-corporation/">            <img class="ty-pict  ty-company-image   cm-image" id="det_img_1"  src="http://localhost/multivendor/images/thumbnails/120/56/logos/1/acme_vfcz-z1.png" alt="Simtech" title="Simtech"  />
+
+        </a>    </div><div class="ty-grid-list__item-location"><a href="http://localhost/multivendor/acme-corporation/" class="company-location"><bdi>            Los Angeles, US
+    </bdi></a></div><div class="grid-list__rating">    
+                
+            <span class="ty-nowrap ty-stars">
+                        <a href="http://localhost/multivendor/index.php?dispatch=companies.view&amp;company_id=1&amp;selected_section=discussion#discussion">
+            
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+            <i class="ty-stars__icon ty-icon-star-half"></i>
+    
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+    
+            </a>
+    </span>
+
+        
+            <a href="http://localhost/multivendor/index.php?dispatch=companies.view&amp;company_id=1&amp;selected_section=discussion#discussion" class="ty-discussion__review-quantity">5 reviews</a>    
+    
+
+</div><div class="ty-grid-list__total-products">            <a href="http://localhost/multivendor/acme-corporation/" class="ty-company-total-products">60  Product(s)</a>    </div>
+</div></div><div class="ty-column5">
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item"><div class="ty-grid-list__company-logo">            <a class="ty-company-image-wrapper" href="http://localhost/multivendor/adelle-ledner/">            <img class="ty-pict  ty-company-image   cm-image" id="det_img_53"  src="http://localhost/multivendor/images/thumbnails/120/75/logos/8/AdelleLedner.png" alt="" title=""  />
+
+        </a>    </div><div class="ty-grid-list__item-location"><a href="http://localhost/multivendor/adelle-ledner/" class="company-location"><bdi>            Ottawa, CA
+    </bdi></a></div><div class="grid-list__rating">    
+    
+        
+    
+    
+
+</div><div class="ty-grid-list__total-products">            <a href="http://localhost/multivendor/adelle-ledner/" class="ty-company-total-products">50  Product(s)</a>    </div>
+</div></div><div class="ty-column5">
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item"><div class="ty-grid-list__company-logo">            <a class="ty-company-image-wrapper" href="http://localhost/multivendor/alicia-white/">            <img class="ty-pict  ty-company-image   cm-image" id="det_img_80"  src="http://localhost/multivendor/images/thumbnails/120/75/logos/8/AliciaWhite.png" alt="" title=""  />
+
+        </a>    </div><div class="ty-grid-list__item-location"><a href="http://localhost/multivendor/alicia-white/" class="company-location"><bdi>            Tijuana, MX
+    </bdi></a></div><div class="grid-list__rating">    
+    
+        
+    
+    
+
+</div><div class="ty-grid-list__total-products">            <a href="http://localhost/multivendor/alicia-white/" class="ty-company-total-products">25  Product(s)</a>    </div>
+</div></div><div class="ty-column5">
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item"><div class="ty-grid-list__company-logo">            <a class="ty-company-image-wrapper" href="http://localhost/multivendor/alivia-smith-iv/">            <img class="ty-pict  ty-company-image   cm-image" id="det_img_113"  src="http://localhost/multivendor/images/thumbnails/120/75/logos/8/AliviaSmith.png" alt="" title=""  />
+
+        </a>    </div><div class="ty-grid-list__item-location"><a href="http://localhost/multivendor/alivia-smith-iv/" class="company-location"><bdi>            Klang, MY
+    </bdi></a></div><div class="grid-list__rating">    
+    
+        
+    
+    
+
+</div><div class="ty-grid-list__total-products">            <a href="http://localhost/multivendor/alivia-smith-iv/" class="ty-company-total-products">25  Product(s)</a>    </div>
+</div></div><div class="ty-column5">
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item"><div class="ty-grid-list__company-logo">            <a class="ty-company-image-wrapper" href="http://localhost/multivendor/andrew-vonrueden-md/">            <img class="ty-pict  ty-company-image   cm-image" id="det_img_18"  src="http://localhost/multivendor/images/thumbnails/120/75/logos/8/AndrewonRueden.png" alt="" title=""  />
+
+        </a>    </div><div class="ty-grid-list__item-location"><a href="http://localhost/multivendor/andrew-vonrueden-md/" class="company-location"><bdi>            Delhi, IN
+    </bdi></a></div><div class="grid-list__rating">    
+    
+        
+    
+    
+
+</div><div class="ty-grid-list__total-products">            <a href="http://localhost/multivendor/andrew-vonrueden-md/" class="ty-company-total-products">50  Product(s)</a>    </div>
+</div></div>    </div>
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

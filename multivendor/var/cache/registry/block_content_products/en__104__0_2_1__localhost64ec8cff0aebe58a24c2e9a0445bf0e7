@@ -1,0 +1,630 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:15554:"    <div class="ty-mainbox-simple-container clearfix homepage-hotdeals">
+                    <h2 class="ty-mainbox-simple-title">
+                
+                                    Hot deals
+                                
+
+            </h2>
+                <div class="ty-mainbox-simple-body">
+
+                        
+
+    <div class="owl-theme ty-owl-controls">
+        <div class="owl-controls clickable owl-controls-outside"  id="owl_outside_nav_83">
+            <div class="owl-buttons">
+                <div id="owl_prev_83000" class="owl-prev"><i class="ty-icon-left-open-thin"></i></div>
+                <div id="owl_next_83000" class="owl-next"><i class="ty-icon-right-open-thin"></i></div>
+            </div>
+        </div>
+    </div>
+
+<div id="scroll_list_83" class="owl-carousel ty-scroller-list">
+            
+        <div class="ty-scroller-list__item">
+                        <div class="ty-scroller-list__img-block">
+                
+                <a href="http://localhost/multivendor/apparel/t-shirt/"><img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/multivendor/images/thumbnails/160/160/detailed/1/t-6.jpg" alt="" title=""  />
+</a>
+                            </div>
+            <div class="ty-scroller-list__description">
+                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="ty-simple-list clearfix">
+                <form action="http://localhost/multivendor/" method="post" name="product_form_83000scr_83000277" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[scr_83000277][product_id]" value="277" />
+
+            
+                                    <span class="ty-discount-label cm-reload-83000scr_83000277" id="discount_label_update_83000scr_83000277">
+            <span class="ty-discount-label__item" id="line_prc_discount_value_83000scr_83000277"><span class="ty-discount-label__value" id="prc_discount_value_label_83000scr_83000277">Save 60%</span></span>
+        <!--discount_label_update_83000scr_83000277--></span>
+    
+
+            <bdi>                                    
+    <span class="cm-reload-83000scr_83000277" id="name_update_83000scr_83000277">
+                    <input type="hidden" name="appearance[show_name]" value="1" />
+            <a href="http://localhost/multivendor/apparel/t-shirt/" class="product-title" title="T-shirt" >T-shirt</a>            <!--name_update_83000scr_83000277--></span>
+
+</bdi>
+                
+                
+    
+
+
+
+            
+
+                                    
+
+
+
+
+            
+                            
+            
+            
+                            
+                        
+                                <div class="cm-reload-83000scr_83000277" id="qty_description_83000scr_83000277">
+            <!--qty_description_83000scr_83000277--></div>
+
+
+
+                            
+
+                                                    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="4d7e9c597c9bd96adf736d4392255682" /></form>
+
+    </div>
+
+            </div>
+        </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                        <div class="ty-scroller-list__img-block">
+                
+                <a href="http://localhost/multivendor/watches/apple-watch-nike/"><img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/multivendor/images/thumbnails/160/160/detailed/8/alu-spacegray-sport-blackvolt-gallery1_GEO_US.jpg" alt="" title=""  />
+</a>
+                            </div>
+            <div class="ty-scroller-list__description">
+                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="ty-simple-list clearfix">
+                <form action="http://localhost/multivendor/" method="post" name="product_form_83000scr_830005766" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[scr_830005766][product_id]" value="5766" />
+
+            
+                            
+
+            <bdi>
+            <a href="http://localhost/multivendor/watches/apple-watch-nike/" class="product-title" title="Apple Watch Nike+" >Apple Watch Nike+</a>    
+
+</bdi>
+                
+                
+    
+
+
+
+            
+
+                                    
+
+
+
+
+            
+                            
+            
+            
+                            
+                        
+                            
+            
+
+
+
+                            
+
+                                                    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="4d7e9c597c9bd96adf736d4392255682" /></form>
+
+    </div>
+
+            </div>
+        </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                        <div class="ty-scroller-list__img-block">
+                
+                <a href="http://localhost/multivendor/computers-and-electronics/tvs-and-monitors/flat-panel-accessories/lenovo-t860-thinkvision-l180p-speaker-usb-hub/"><img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/multivendor/images/thumbnails/160/160/detailed/7/280057-2958.jpg" alt="" title=""  />
+</a>
+                            </div>
+            <div class="ty-scroller-list__description">
+                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="ty-simple-list clearfix">
+                <form action="http://localhost/multivendor/" method="post" name="product_form_83000scr_830005464" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[scr_830005464][product_id]" value="5464" />
+
+            
+                            
+
+            <bdi>
+            <a href="http://localhost/multivendor/computers-and-electronics/tvs-and-monitors/flat-panel-accessories/lenovo-t860-thinkvision-l180p-speaker-usb-hub/" class="product-title" title="Lenovo T860/ThinkVision L180p Speaker/USB Hub" >Lenovo T860/ThinkVision L180p Speaker/USB Hub</a>    
+
+</bdi>
+                
+                
+    
+
+
+
+            
+
+                                    
+
+
+
+
+            
+                            
+            
+            
+                            
+                        
+                            
+            
+
+
+
+                            
+
+                                                    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="4d7e9c597c9bd96adf736d4392255682" /></form>
+
+    </div>
+
+            </div>
+        </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                        <div class="ty-scroller-list__img-block">
+                
+                <a href="http://localhost/multivendor/computers-and-electronics/tvs-and-monitors/pc-flat-panels/samsung-21in-silver-1600x1200-25ms-21.3-silver/"><img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/multivendor/images/thumbnails/160/160/detailed/7/44716.jpg" alt="" title=""  />
+</a>
+                            </div>
+            <div class="ty-scroller-list__description">
+                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="ty-simple-list clearfix">
+                <form action="http://localhost/multivendor/" method="post" name="product_form_83000scr_830005465" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[scr_830005465][product_id]" value="5465" />
+
+            
+                            
+
+            <bdi>
+            <a href="http://localhost/multivendor/computers-and-electronics/tvs-and-monitors/pc-flat-panels/samsung-21in-silver-1600x1200-25ms-21.3-silver/" class="product-title" title="Samsung 21IN SILVER 1600X1200 25MS 21.3&quot; Silver" >Samsung 21IN SILVER 1600X1200 25MS 21.3" Silver</a>    
+
+</bdi>
+                
+                
+    
+
+
+
+            
+
+                                    
+
+
+
+
+            
+                            
+            
+            
+                            
+                        
+                            
+            
+
+
+
+                            
+
+                                                    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="4d7e9c597c9bd96adf736d4392255682" /></form>
+
+    </div>
+
+            </div>
+        </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                        <div class="ty-scroller-list__img-block">
+                
+                <a href="http://localhost/multivendor/computers-and-electronics/tvs-and-monitors/flat-panel-desk-mounts/samsung-wmb-l403ts-flat-panel-desk-mount/"><img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/multivendor/images/thumbnails/160/160/detailed/7/79345-5702.jpg" alt="" title=""  />
+</a>
+                            </div>
+            <div class="ty-scroller-list__description">
+                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="ty-simple-list clearfix">
+                <form action="http://localhost/multivendor/" method="post" name="product_form_83000scr_830005466" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[scr_830005466][product_id]" value="5466" />
+
+            
+                            
+
+            <bdi>
+            <a href="http://localhost/multivendor/computers-and-electronics/tvs-and-monitors/flat-panel-desk-mounts/samsung-wmb-l403ts-flat-panel-desk-mount/" class="product-title" title="Samsung WMB-L403TS flat panel desk mount" >Samsung WMB-L403TS flat panel desk mount</a>    
+
+</bdi>
+                
+                
+    
+
+
+
+            
+
+                                    
+
+
+
+
+            
+                            
+            
+            
+                            
+                        
+                            
+            
+
+
+
+                            
+
+                                                    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="4d7e9c597c9bd96adf736d4392255682" /></form>
+
+    </div>
+
+            </div>
+        </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                        <div class="ty-scroller-list__img-block">
+                
+                <a href="http://localhost/multivendor/computers-and-electronics/tvs-and-monitors/pc-flat-panels/samsung-17in-1280x1024-w-tuner-17/"><img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/multivendor/images/thumbnails/160/160/detailed/7/80682-6050.jpg" alt="" title=""  />
+</a>
+                            </div>
+            <div class="ty-scroller-list__description">
+                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="ty-simple-list clearfix">
+                <form action="http://localhost/multivendor/" method="post" name="product_form_83000scr_830005467" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[scr_830005467][product_id]" value="5467" />
+
+            
+                            
+
+            <bdi>
+            <a href="http://localhost/multivendor/computers-and-electronics/tvs-and-monitors/pc-flat-panels/samsung-17in-1280x1024-w-tuner-17/" class="product-title" title="Samsung 17IN 1280X1024 W TUNER 17&quot;" >Samsung 17IN 1280X1024 W TUNER 17"</a>    
+
+</bdi>
+                
+                
+    
+
+
+
+            
+
+                                    
+
+
+
+
+            
+                            
+            
+            
+                            
+                        
+                            
+            
+
+
+
+                            
+
+                                                    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="4d7e9c597c9bd96adf736d4392255682" /></form>
+
+    </div>
+
+            </div>
+        </div>
+        
+
+    </div>
+
+
+<script type="text/javascript" src="http://localhost/multivendor/js/lib/owlcarousel/owl.carousel.min.js?ver=4.9.3.SP1" ></script>
+<script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_83');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 4,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, 1];
+
+                function outsideNav () {
+            if(this.options.items >= this.itemsAmount){
+                $("#owl_outside_nav_83").hide();
+            } else {
+                $("#owl_outside_nav_83").show();
+            }
+        }
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                stopOnHover: true,
+                                pagination: false,
+                            afterInit: outsideNav,
+                afterUpdate : outsideNav
+            });
+
+              $('#owl_prev_83000').click(function(){
+                elm.trigger('owl.prev');
+              });
+              $('#owl_next_83000').click(function(){
+                elm.trigger('owl.next');
+              });
+
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>
+
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

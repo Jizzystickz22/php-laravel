@@ -1,0 +1,216 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:1828:"<script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_86');
+
+        var item = 2,
+            // default setting of carousel
+            itemsDesktop = 3,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+                function outsideNav () {
+            if(this.options.items >= this.itemsAmount){
+                $("#owl_outside_nav_86").hide();
+            } else {
+                $("#owl_outside_nav_86").show();
+            }
+        }
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: [1199, itemsDesktop],
+                itemsDesktopSmall: [979, itemsDesktopSmall],
+                itemsTablet: [768, itemsTablet],
+                itemsMobile: [479, 1],
+                                                autoPlay: false,
+                                slideSpeed: 400,
+                stopOnHover: true,
+                                pagination: false,
+                            afterInit: outsideNav,
+                afterUpdate : outsideNav
+            });
+
+              $('#owl_prev_86000').click(function(){
+                elm.trigger('owl.prev');
+              });
+              $('#owl_next_86000').click(function(){
+                elm.trigger('owl.next');
+              });
+
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:6665:"    <div class="ty-mainbox-simple-container clearfix">
+                    <h2 class="ty-mainbox-simple-title">
+                
+                                    Reviews
+                                
+
+            </h2>
+                <div class="ty-mainbox-simple-body">
+
+
+
+    <div class="owl-theme ty-owl-controls">
+        <div class="owl-controls clickable owl-controls-outside" id="owl_outside_nav_86">
+            <div class="owl-buttons">
+                <div id="owl_prev_86000" class="owl-prev"><i class="ty-icon-left-open-thin"></i></div>
+                <div id="owl_next_86000" class="owl-next"><i class="ty-icon-right-open-thin"></i></div>
+            </div>
+        </div>
+    </div>
+
+<div class="ty-mb-l">
+    <div class="ty-scroller-discussion-list">
+        <div id="scroll_list_86" class="owl-carousel ty-scroller-list">
+
+                    <div class="ty-discussion-post__content ty-scroller-discussion-list__item">
+                
+                <a href="http://localhost/multivendor/index.php?dispatch=discussion.view&amp;thread_id=1&amp;post_id=120#post_120">
+                    <div class="ty-discussion-post " id="post_120">
+
+                                                <div class="ty-discussion-post__message">The hoverboard I ordered was just awesome. Thank you so much!</div>
+                        
+                        <span class="ty-caret-bottom"><span class="ty-caret-outer"></span><span class="ty-caret-inner"></span></span>
+                    
+                    </div>
+                </a>
+
+                <span class="ty-discussion-post__author">Marty McFly</span>
+                <span class="ty-discussion-post__date">01/12/2017</span>
+                                    <div class="clearfix ty-discussion-post__rating">
+                        <span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+    
+    </span>
+
+                    </div>
+                                
+
+            </div>
+                    <div class="ty-discussion-post__content ty-scroller-discussion-list__item">
+                
+                <a href="http://localhost/multivendor/index.php?dispatch=discussion.view&amp;thread_id=1&amp;post_id=123#post_123">
+                    <div class="ty-discussion-post  ty-discussion-post_even" id="post_123">
+
+                                                <div class="ty-discussion-post__message">My parcel was damaged. Oh! There isn’t enough camomile tea in the world to quell the rage in my...</div>
+                        
+                        <span class="ty-caret-bottom"><span class="ty-caret-outer"></span><span class="ty-caret-inner"></span></span>
+                    
+                    </div>
+                </a>
+
+                <span class="ty-discussion-post__author">Sheldon Cooper</span>
+                <span class="ty-discussion-post__date">10/28/2016</span>
+                                    <div class="clearfix ty-discussion-post__rating">
+                        <span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+    
+    </span>
+
+                    </div>
+                                
+
+            </div>
+                    <div class="ty-discussion-post__content ty-scroller-discussion-list__item">
+                
+                <a href="http://localhost/multivendor/index.php?dispatch=discussion.view&amp;thread_id=1&amp;post_id=122#post_122">
+                    <div class="ty-discussion-post " id="post_122">
+
+                                                <div class="ty-discussion-post__message">Oh… my… God! Your website is great. Thank you so much, I'm very pleased with the order.</div>
+                        
+                        <span class="ty-caret-bottom"><span class="ty-caret-outer"></span><span class="ty-caret-inner"></span></span>
+                    
+                    </div>
+                </a>
+
+                <span class="ty-discussion-post__author">Janice</span>
+                <span class="ty-discussion-post__date">12/31/2015</span>
+                                    <div class="clearfix ty-discussion-post__rating">
+                        <span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+    
+    </span>
+
+                    </div>
+                                
+
+            </div>
+                    <div class="ty-discussion-post__content ty-scroller-discussion-list__item">
+                
+                <a href="http://localhost/multivendor/index.php?dispatch=discussion.view&amp;thread_id=1&amp;post_id=121#post_121">
+                    <div class="ty-discussion-post  ty-discussion-post_even" id="post_121">
+
+                                                <div class="ty-discussion-post__message">Good service. I've already bought some stuff here twice and I'll be back...</div>
+                        
+                        <span class="ty-caret-bottom"><span class="ty-caret-outer"></span><span class="ty-caret-inner"></span></span>
+                    
+                    </div>
+                </a>
+
+                <span class="ty-discussion-post__author">T-800 The Terminator</span>
+                <span class="ty-discussion-post__date">04/15/2015</span>
+                                    <div class="clearfix ty-discussion-post__rating">
+                        <span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+    
+    </span>
+
+                    </div>
+                                
+
+            </div>
+        
+        </div>
+    </div>
+</div>
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}
